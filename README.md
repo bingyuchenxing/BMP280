@@ -2,20 +2,18 @@
 
 makecode BMP280  micro:bit 大气压传感器开发包
 
-作者: 朱林  
-时间: 2018/4 
+* 作者: 朱林  
+* 时间: 2018/4 
 
 ![](https://raw.githubusercontent.com/microbit-makecode-packages/BMP280/master/icon.png)  
   
 ![](https://raw.githubusercontent.com/microbit-makecode-packages/BMP280/master/bmp280.jpg)
 
-## usage
+## 使用方法
+打开 makecode 编辑器，在项目中选择添加软件包，然后在地址栏输入下面网址  
+https://github.com/zhuning239/BMP280 
 
-open your microbit makecode project, in Add Package, paste  
-
-https://github.com/microbit-makecode-packages/BMP280  
-
-to search box then search.
+搜索后就可以添加并使用本软件包了。
 
 ## I2C Address  
 
