@@ -1,9 +1,9 @@
-# BMP280
+# BMP280 开发库
 
-makecode BMP280 Digital Pressure Sensor package for micro:bit  
+makecode BMP280  micro:bit 大气压传感器开发包
 
-Author: shaoziyang  
-Date:   2018.Mar  
+作者: 朱林  
+时间: 2018/4 
 
 ![](https://raw.githubusercontent.com/microbit-makecode-packages/BMP280/master/icon.png)  
   
@@ -40,7 +40,7 @@ set BMP280's I2C address. addr may be:
   - BMP280_I2C_ADDRESS.ADDR_0x76
   - BMP280_I2C_ADDRESS.ADDR_0x77
 
-## Demo
+## 案例程序
 
 ![](https://raw.githubusercontent.com/microbit-makecode-packages/BMP280/master/demo.jpg)
 
@@ -48,11 +48,9 @@ set BMP280's I2C address. addr may be:
 
 MIT
 
-Copyright (c) 2018, microbit/micropython Chinese community  
+湖南创乐博智能科技有限公司
 
 ## Supported targets
 
 * for PXT/microbit
 
-
-[From microbit/micropython Chinese community](http://www.micropython.org.cn)
