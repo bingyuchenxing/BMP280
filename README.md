@@ -5,9 +5,9 @@ makecode BMP280  micro:bit 大气压传感器开发包
 * 作者: 朱林  
 * 时间: 2018/4 
 
-![](https://raw.githubusercontent.com/microbit-makecode-packages/BMP280/master/icon.png)  
+![image](https://github.com/zhuning239/BMP280/blob/master/icon.png) 
   
-![](https://raw.githubusercontent.com/microbit-makecode-packages/BMP280/master/bmp280.jpg)
+![image](https://github.com/zhuning239/BMP280/blob/master/bmp280.jpg)
 
 ## 使用方法
 打开 makecode 编辑器，在项目中选择添加软件包，然后在地址栏输入下面网址  
@@ -40,7 +40,7 @@ set BMP280's I2C address. addr may be:
 
 ## 案例程序
 
-![](https://raw.githubusercontent.com/microbit-makecode-packages/BMP280/master/demo.jpg)
+![image](https://github.com/zhuning239/BMP280/blob/master/demo.jpg)
 
 ## License
 
