@@ -48,7 +48,7 @@ MIT
 
 湖南创乐博智能科技有限公司
 
-## Supported targets
+## 支持硬件
 
 * for PXT/microbit
 
